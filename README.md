@@ -1,1 +1,14 @@
-# semaine1
+# Je suis Stéphane
+
+# Expérience Pro
+
+* Auto entrepreneur en informatique
+
+# Formation
+
+* Technicien en assistance informatique
+* Technicien supérieur gestionnaire de ressources informatiques
+
+# Pourquoi suis ici
+
+pour élargir mes compétences
