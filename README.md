@@ -3,7 +3,7 @@
 # Expérience Pro
 
 * Auto entrepreneur en informatique
-![carte de visite](images/carte_de_visite"alt")
+![carte de visite](https://github.com/StephDecru/semaine1/blob/master/Images/carte_de_visite.jpg"alt")
 
 # Formation
 
