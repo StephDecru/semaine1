@@ -3,7 +3,7 @@
 # Expérience Pro
 
 * Auto entrepreneur en informatique
-<img src="semaine1/Images/carte de visite.jpg" alt="carte de visite">
+[carte de visite](images/carte de visite"alt")
 
 # Formation
 
