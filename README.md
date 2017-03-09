@@ -3,7 +3,7 @@
 # Expérience Pro
 
 * Auto entrepreneur en informatique
-[carte de visite](images/carte de visite"alt")
+![carte de visite](images/carte de visite"alt")
 
 # Formation
 
