@@ -3,7 +3,7 @@
 # Expérience Pro
 
 * Auto entrepreneur en informatique
-<img src="c:/simplon/carte de visite.jpg" alt="carte de visite"
+<img src="images/carte de visite.jpg" alt="carte de visite">
 
 # Formation
 
